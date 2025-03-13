@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @BressonAn
 - 👀 I’m interested in Hydrodynamics
+- 💻 I’ve skills in python and scientific coding languages
 - 🌱 I’m currently learning Hydrodynamics
 - 💞️ I’m looking to collaborate on different subjects
 
